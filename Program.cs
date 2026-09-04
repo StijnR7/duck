@@ -12,7 +12,8 @@ namespace StrategyPattern
             Duck decoyDuck = new DecoyDuck();
             Duck rubberDuck = new RubberDuck();
             decoyDuck.PerformQuack();
-
+            Duck robotDuck = new RobotDuck();
+            robotDuck.PerformFloat();
         }
     }
 }

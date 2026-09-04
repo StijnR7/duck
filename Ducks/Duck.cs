@@ -1,5 +1,6 @@
 ﻿using StrategyPattern.Interfaces.FlyBehavior;
 using StrategyPattern.Interfaces.QuackBehavior;
+using StrategyPattern.Interfaces.SwimBehavior;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +18,16 @@ namespace StrategyPattern.Ducks
 
         protected FlyBehavior flyBehavior;
 
+        protected SwimBehavior swimBehavior;
+
         public abstract void Display();
+        public void PerformFloat() {
+            swimBehavior.Float();
+        
+        }
+        public void PerformSink() {
+            swimBehavior.Sink();
+        }   
 
         public void PerformQuack()
 

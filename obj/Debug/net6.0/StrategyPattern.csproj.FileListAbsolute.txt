@@ -27,3 +27,4 @@ C:\Users\nijme\Downloads\001 - StrategyPattern\StrategyPattern\bin\Debug\net6.0\
 C:\Users\nijme\Downloads\001 - StrategyPattern\StrategyPattern\bin\Debug\net6.0\StrategyPattern.pdb
 C:\Users\nijme\Downloads\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.genruntimeconfig.cache
 C:\Users\nijme\Downloads\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\ref\StrategyPattern.dll
+C:\Users\nijme\Downloads\001 - StrategyPattern\StrategyPattern\obj\Debug\net6.0\StrategyPattern.sourcelink.json
